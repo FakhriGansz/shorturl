@@ -1,0 +1,7 @@
+{
+	"name": "Express-Uploader",
+	"description": "Simple Uploader using Express Uploader",
+	"repository": "https://github.com/FakhriGansz/express-uploader",
+	"logo": "https://node-js-sample.herokuapp.com/node.png",
+	"keywords": ["express-uploader"]
+}
